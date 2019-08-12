@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/srg/static/css/main.bacec3c9.chunk.css",
-    "main.js": "/srg/static/js/main.75836450.chunk.js",
-    "main.js.map": "/srg/static/js/main.75836450.chunk.js.map",
-    "runtime~main.js": "/srg/static/js/runtime~main.913f388b.js",
-    "runtime~main.js.map": "/srg/static/js/runtime~main.913f388b.js.map",
-    "static/css/2.510409cd.chunk.css": "/srg/static/css/2.510409cd.chunk.css",
-    "static/js/2.fa7c8334.chunk.js": "/srg/static/js/2.fa7c8334.chunk.js",
-    "static/js/2.fa7c8334.chunk.js.map": "/srg/static/js/2.fa7c8334.chunk.js.map",
-    "index.html": "/srg/index.html",
-    "precache-manifest.3fe4e8a108e0a09ca5d640f475eb82ae.js": "/srg/precache-manifest.3fe4e8a108e0a09ca5d640f475eb82ae.js",
-    "service-worker.js": "/srg/service-worker.js",
-    "static/css/2.510409cd.chunk.css.map": "/srg/static/css/2.510409cd.chunk.css.map",
-    "static/css/main.bacec3c9.chunk.css.map": "/srg/static/css/main.bacec3c9.chunk.css.map"
+    "main.css": "/get-your-recipe/static/css/main.bacec3c9.chunk.css",
+    "main.js": "/get-your-recipe/static/js/main.67c394f0.chunk.js",
+    "main.js.map": "/get-your-recipe/static/js/main.67c394f0.chunk.js.map",
+    "runtime~main.js": "/get-your-recipe/static/js/runtime~main.a455daae.js",
+    "runtime~main.js.map": "/get-your-recipe/static/js/runtime~main.a455daae.js.map",
+    "static/css/2.510409cd.chunk.css": "/get-your-recipe/static/css/2.510409cd.chunk.css",
+    "static/js/2.fa7c8334.chunk.js": "/get-your-recipe/static/js/2.fa7c8334.chunk.js",
+    "static/js/2.fa7c8334.chunk.js.map": "/get-your-recipe/static/js/2.fa7c8334.chunk.js.map",
+    "index.html": "/get-your-recipe/index.html",
+    "precache-manifest.a45a6237e77ee94741b403e58f78ac3e.js": "/get-your-recipe/precache-manifest.a45a6237e77ee94741b403e58f78ac3e.js",
+    "service-worker.js": "/get-your-recipe/service-worker.js",
+    "static/css/2.510409cd.chunk.css.map": "/get-your-recipe/static/css/2.510409cd.chunk.css.map",
+    "static/css/main.bacec3c9.chunk.css.map": "/get-your-recipe/static/css/main.bacec3c9.chunk.css.map"
   }
 }
